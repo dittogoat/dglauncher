@@ -1,11 +1,11 @@
 {
-    "Destroy the Warka": {
-        "version": "2.0.0",
-        "description": "placeholder",
-        "background": ""
-    },
-    "UnPlugged": {
-        "version": "delta",
-        "description": "placeholder"
-    }
+  "Destroy the Warka": {
+    "version": "2.0.0",
+    "description": "placeholder",
+    "background": ""
+  },
+  "UnPlugged": {
+    "version": "delta",
+    "description": "placeholder"
+  }
 }

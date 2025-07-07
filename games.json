@@ -1,7 +1,6 @@
 {
-  "Destroy the Warka":
-  {
-    "version": "2.0.0",
-    "description": "placeholder",
-  }
+    "Destroy the Warka": {
+        "version": "2.0.0",
+        "description": "placeholder"
+    }
 }

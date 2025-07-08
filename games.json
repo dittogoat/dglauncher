@@ -1,19 +1,5 @@
 {
-  "Destroy the Warka": {
-    "version": "2.0.0",
-    "author": "dittogames",
-    "description": "placeholder",
-    "background": "",
-    "link": "https://www.dropbox.com/scl/fi/nb9e3s8ty9lj6f0nrxiou/Alojzy-R1-build-4.rar?rlkey=euek5exw350pc1ur0ou2mahfn&st=dx7anmyn&dl=1"
-  },
-  "UnPlugged": {
-    "version": "delta",
-    "author": "dittogames",
-    "description": "placeholder"
-  },
-  "Zabij kube 3d": {
-    "version": "1.0.0",
-    "author": "Pakomii",
-    "description": "placeholder"
-  }
+  "games": [
+    "Destroy the Warka"
+  ]
 }
